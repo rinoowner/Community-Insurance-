@@ -59,10 +59,10 @@ Contract ID:ST2CJBPBFK6QXFPS6X2AW8T5N0XKYNZDR9EJ3GYW9.CommunityInsurance
 ![alt text](image.png)
 
 - **Network**: Stacks Mainnet/Testnet
-- **Contract Address**: `[TO_BE_DEPLOYED]`
-- **Explorer Link**: `[TO_BE_ADDED]`
-- **Contract Name**: `community-cyber-insurance`
-- **Deployment Date**: `[TO_BE_ADDED]`
+- **Contract Address**: 
+- **Explorer Link**: 
+- **Contract Name**: 
+- **Deployment Date**:
 
 ### Contract Functions:
 - `contribute-to-pool`: Stake STX tokens into the insurance pool
